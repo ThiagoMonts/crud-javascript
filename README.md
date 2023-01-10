@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O projeto é um sistema de CRUD para o cadastro de funcionários, nele é possível identificar o funcionário pelo nome, adicionando sua função e o seu salário. Existe ainda a opção de edição de dados.
+O projeto é um sistema de CRUD para o cadastro de funcionários, nele é possível identificar o funcionário pelo nome, adicionando sua função e o seu salário. Existe ainda uma janela para de edição de dados. No que diz respeito ao armazenamento de dados foi utilizado o Local Storage. Vale salientar que o site é totalmente responsivo para dispositivos móveis.
 
 <br>
 
